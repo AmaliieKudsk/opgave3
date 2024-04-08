@@ -1,0 +1,26 @@
+.btn{
+    background-color: #ff6565;
+    border-color: #ff6565;
+}
+
+.btn:hover{
+    background-color: #ffffff;
+    border-color: #ff6565;
+    color: #ff6565;
+}
+
+.navbar{
+    background-color: #d0d0d0;
+}
+
+.footer{
+    background-color: #d0d0d0;
+}
+
+.footer ul{
+    list-style: none;
+}
+
+.bi{
+    color: black;
+}
